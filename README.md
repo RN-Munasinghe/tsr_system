@@ -1,4 +1,4 @@
-# tsr_system
+# Recognition Model - Traffic Sign Recognition System 
 This project presents a real-time traffic sign recognition system built using Convolutional Neural Networks (CNNs). The model is designed to accurately detect and classify traffic signs based on image coordinates, ensuring robust performance in various environmental conditions.
 
 Features
